@@ -1,0 +1,1 @@
+configuration information for application

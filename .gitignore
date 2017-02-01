@@ -1,0 +1,6 @@
+.idea/
+venv/
+bin/geckodriver.log*
+geckodriver.log
+bin/*.pyc
+bin/ghostdriver.log
