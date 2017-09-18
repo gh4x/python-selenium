@@ -11,7 +11,7 @@ import unittest
 
 
 url = "url goes here"
-user_account = "NPATestUser@bna.com"
+user_account = "TestUser@gh4x.com"
 
 
 def suite():
@@ -20,7 +20,7 @@ def suite():
     return test_suite
 
 
-class BusinessSystemsPortalTest(unittest.TestCase):
+class WebPortalTest(unittest.TestCase):
     def setUp(self):
         # self.driver = webdriver.Firefox()
         # self.driver = webdriver.Ie() # doesn't work
